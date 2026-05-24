@@ -1,0 +1,8 @@
+interface:
+  display_name: "Account Expansion"
+  short_description: "Build expansion briefs for existing customers"
+  brand_color: "#F5B544"
+  default_prompt: "Use $account-expansion to map an existing customer account, assess expansion readiness, and produce an Expansion Brief."
+
+policy:
+  allow_implicit_invocation: true

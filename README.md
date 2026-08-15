@@ -87,8 +87,9 @@ No login. No paywall.
 - **Account Expansion**: use when the account is already a customer and you need to decide whether expansion is earned.
 - **Executive Briefing**: use when you are selling or planning an executive briefing, executive meeting, or executive demo.
 - **POV**: use when you already have a signal or account brief and need a financially grounded angle, business case, or internal approval narrative.
+- **QBR**: use when you need an internal sales QBR, customer QBR, EBR, renewal review, value review, pipeline review, or next-quarter action plan.
 
-They work together. Greenfield finds the new-logo wedge. Account Expansion finds the install-base growth path. Executive Briefing builds the meeting strategy. POV sharpens the narrative.
+They work together. Greenfield finds the new-logo wedge. Account Expansion finds the install-base growth path. Executive Briefing builds the meeting strategy. QBR turns quarter performance or customer value into a review-ready plan. POV sharpens the narrative.
 
 ---
 

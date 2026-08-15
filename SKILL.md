@@ -109,6 +109,12 @@ If the gate is `NOT READY`:
   - enablement plan
   - weekly focus checklist
 
+### Suite Routing Rules
+- If the user is preparing a customer QBR, EBR, renewal review, value review, or internal sales QBR and the main need is the review narrative, scorecard, agenda, or next-quarter plan, route to **QBR** first.
+- Use Account Expansion when the main question is whether an existing customer is ready for upsell, cross-sell, add-on, expansion, or broader executive sponsorship.
+- Use **POV** after the Expansion Brief when the user needs a financially grounded message, business case, champion-forwardable narrative, or internal approval argument.
+- Use **Executive Briefing** when the expansion depends on selling or preparing an executive meeting, executive demo, or briefing.
+
 ### Interrogation Rules
 - Ask one question at a time. Do not batch questions.
 - Explain before you ask. At every stage, tell the AE why the stage exists and what you are trying to learn.
@@ -793,4 +799,6 @@ This standalone skill creates an Expansion Brief for one existing customer accou
 ---
 
 *Account Expansion v2 - Free to use, share, and remix with attribution*
-*github.com/mangosteen-studio/greenfield - Made in California*
+Part of the Greenfield suite: Greenfield, Account Expansion, Executive Briefing, QBR, and POV.
+
+*github.com/mangosteen-studio/account-expansion - Made in California*
